@@ -1,5 +1,5 @@
-R=  1/10;
-C=1/10*10^-6;
+R=  10;
+C=0.00001;
 %for loop for intial condition
 for i=1:5
     q=i*2*10^-3;
